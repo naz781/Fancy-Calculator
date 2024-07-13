@@ -35,7 +35,7 @@ An aesthetically pleasing and functional calculator application was created by i
 
 - Calculator JavaScript (https://github.com/naz781/Fancy-Calculator/blob/main/script.js)
 
-- Calculator CSS (
+- Calculator CSS (https://github.com/naz781/Fancy-Calculator/blob/main/styles.css)
 
 ## Contact 
 FatimaNaz::naz781@gmail.com
