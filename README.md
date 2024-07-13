@@ -31,7 +31,7 @@ An aesthetically pleasing and functional calculator application was created by i
 
 ## REFERENCES
 
-- Calculator HTML
+- Calculator HTML (https://github.com/naz781/Fancy-Calculator/blob/main/index.html)
 
 - Calculator JavaScript
 
