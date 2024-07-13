@@ -16,23 +16,24 @@ An aesthetically pleasing and functional calculator application was created by i
 
 ## FEATURES REQUESTED
 
-A button can be used to access the history.
-Add the functions for scientific calculations.
-Making it possible to change the calculator's skin.
+- A button can be used to access the history.
+- Add the functions for scientific calculations.
+- Making it possible to change the calculator's skin.
 
 
 ## LEARNING UPDATE
 
-Integrating HTML, CSS, and JavaScript for interactive web applications.
-Implementing sound effects and dynamic display.
-Understanding of data flow and user interaction handling. 
-Integrating multimedia and responsive design principles.
+- Integrating HTML, CSS, and JavaScript for interactive web applications.
+- Implementing sound effects and dynamic display.
+- Understanding of data flow and user interaction handling. 
+- Integrating multimedia and responsive design principles.
 
 
 ## REFERENCES
 
-Calculator HTML
+- Calculator HTML
 
-Calculator JavaScript
+- Calculator JavaScript
 
-Contact FatimaNaz::naz781@gmail.com
+## Contact 
+FatimaNaz::naz781@gmail.com
