@@ -8,10 +8,10 @@ An aesthetically pleasing and functional calculator application was created by i
 
 ## STACK / TECHNOLOGY
 
-Javascript
-HTML5
-CSS3
-GitHub
+- Javascript
+- HTML5
+- CSS3
+- GitHub
 
 
 ## FEATURES REQUESTED
